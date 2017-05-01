@@ -1,2 +1,2 @@
-# Luxo-jr
-NodeMCU  based luxo Jr
+# Luxo-Jr
+Luxo Jr. based on Nodemcu
